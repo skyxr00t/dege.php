@@ -1,0 +1,3 @@
+Options -Indexes
+ErrorDocument 403 https://ejurnalilmiah.com/
+ErrorDocument 404 https://ejurnalilmiah.com/
