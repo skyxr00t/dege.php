@@ -1,3 +1,1 @@
-Options -Indexes
-ErrorDocument 403 https://ncdt.hvdt.edu.vn/
-ErrorDocument 404 https://ncdt.hvdt.edu.vn/
+Redirect 301 journal.e-akademickie.pl
