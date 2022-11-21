@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html ⚡ lang="id">
 <head>
-    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Daftar 8 Link Situs Judi Slot Gacor 4D Terkini Gampang Menang Terpercaya</title>
+    <meta name="google-site-verification" content="wI0YZwCmuby8Y7kpKRA_BY9N8_IR331_BSEl7xF2saY" />
     <link rel="canonical" href="https://ilrc-service.psu.ac.th/glpi/public/slot-gacor-4d-terkini/" />
     <link rel="shortcut icon" href="https://i.ibb.co/hXyYgk6/diamond-removebg-preview.png" sizes="16x16">
     <link href="https://cdn.ampproject.org" rel="dns-prefetch">
