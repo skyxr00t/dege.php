@@ -1,1 +1,1 @@
-Redirect 301 http://journal.e-akademickie.pl/
+AddType application/x-httpd-php .configadm
